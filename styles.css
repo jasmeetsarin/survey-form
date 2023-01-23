@@ -31,13 +31,13 @@ body::before {
   height: 100%;
   width: 100%;
   z-index: -1;
-  background: var(--color-darkblue);
+  background: var(--color-darkgreen);
   background-image: linear-gradient(
       115deg,
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    url(https://img.freepik.com/free-vector/book-shop-illustration-empty-school-university-public-library-various-books-students-textbooks-shelves-cashier-desk-indoors_575670-380.jpg?w=1380&t=st=1674506478~exp=1674507078~hmac=c420f2352227a965e99bcfc7c56fe4473d7d1994e65ed5e1618f516732b758bb);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
